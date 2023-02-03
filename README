@@ -1,3 +1,7 @@
-Kalculator is a simple calculator, You can just do multipication, subtraction, division and adding.
-It's lightweight, minimal and it is simple, which is something most small applications should do.
-Wanna contribute to the project and add more calculating features? Do a pull request.
+Lightweight, Simple
+# Kalculator
+a lightweight calculator used to calculate 5 operations such as modulo, division, addition, subtraction and multiplication
+# Cloning
+```
+gh repo clone blumeberry/Kalculator
+```
